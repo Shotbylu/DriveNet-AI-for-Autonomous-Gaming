@@ -1,4 +1,4 @@
-# DriveNet-AI
+## DriveNet-AI
 
 A supervised deep neural network that learns how to drive in video games. The main objective of this project is to 
 achieve a model that can drive in Grand Theft Auto V. Given a waypoint, the model is expected to reach the destination as
@@ -18,7 +18,7 @@ video game.
 </table>
 
 # Pretrained T.E.D.D. 1104 models
-We provide pretrained T.E.D.D. 1104 models that you can use for real-time inference :)  
+I provide pretrained T.E.D.D. 1104 models that you can use for real-time inference :)  
 The models are trained using 130 GB of human labelled data.  
 The model has been trained in first-person-view with a route to follow in the minimap.  
 The model has learned to drive a large variety of vehicles in different weather conditions (Sun, night, sunny, rain...).  
@@ -293,8 +293,4 @@ to disable this behaviour use the "--save_everything" flag.
   howpublished = {\url{https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games}},
 }
 ```
-
-Author: **Iker García-Ferrero**:  
-- [My Webpage](https://ikergarcia1996.github.io/Iker-Garcia-Ferrero/)  
-- [Twitter](https://twitter.com/iker_garciaf)
 
