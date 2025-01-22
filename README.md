@@ -1,4 +1,4 @@
-## DriveNet-AI
+# DriveNet-AI
 
 A supervised deep neural network that learns how to drive in video games. The main objective of this project is to 
 achieve a model that can drive in Grand Theft Auto V. Given a waypoint, the model is expected to reach the destination as
@@ -17,7 +17,7 @@ video game.
 </tr>
 </table>
 
-# Pretrained T.E.D.D. 1104 models
+## Pretrained T.E.D.D. 1104 models
 I provide pretrained T.E.D.D. 1104 models that you can use for real-time inference :)  
 The models are trained using 130 GB of human labelled data.  
 The model has been trained in first-person-view with a route to follow in the minimap.  
